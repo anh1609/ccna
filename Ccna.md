@@ -1,2 +1,0 @@
-# ccna
-Tiến anh
